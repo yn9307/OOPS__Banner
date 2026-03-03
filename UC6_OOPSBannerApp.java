@@ -1,6 +1,8 @@
 /**
  * OOPSBannerApp UC6 - Refactor Banner Logic into Functions
+ * author developer
  */
+
 
 public class UC6_OOPSBannerApp{
 
